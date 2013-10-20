@@ -1,0 +1,9 @@
+name: Brian Kelly
+markdown: redcarpet
+
+# set by github pages https://help.github.com/articles/using-jekyll-with-pages
+safe: true
+lsi: false
+pygments: true
+
+# source: my top-level dir
