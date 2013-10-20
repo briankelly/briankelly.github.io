@@ -1,4 +1,6 @@
 briankelly.github.io
 ====================
 
-dot el why (first commit!)
+my (new) website
+
+launched October 2013
