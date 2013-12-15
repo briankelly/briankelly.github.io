@@ -1,7 +1,7 @@
 name: Brian Kelly
 markdown: redcarpet
 
-exclude: [Gemfile*, README.md, CNAME, 404.html]
+exclude: [Gemfile*, README.md, CNAME]
 
 # the following are always overwritten as described by github pages
 # https://help.github.com/articles/using-jekyll-with-pages
