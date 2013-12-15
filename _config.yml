@@ -1,6 +1,8 @@
 name: Brian Kelly
 markdown: redcarpet
 
+exclude: [Gemfile*, README.md]
+
 # the following are always overwritten as described by github pages
 # https://help.github.com/articles/using-jekyll-with-pages
 safe: true
