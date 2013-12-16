@@ -1,7 +1,9 @@
 name: Brian Kelly
 markdown: redcarpet
 
-exclude: [Gemfile*, README.md, CNAME]
+exclude: [Gemfile*, README.md]
+# permalink: pretty # effectively, /:year/:month/:day/:title
+permalink: /:year/:month/:title
 
 # the following are always overwritten as described by github pages
 # https://help.github.com/articles/using-jekyll-with-pages

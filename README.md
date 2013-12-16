@@ -1,8 +1,8 @@
 briankelly.github.io
 ====================
 
-my (new) website
+my personal website
 
 http://briankel.ly
 
-launched October 2013
+launched December 2013
