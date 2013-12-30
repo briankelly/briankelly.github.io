@@ -13,9 +13,9 @@
 html, body { height: 100%; }
 
 body {
-  background-color: #FFF;
-  font: 13.34px Helvetica, Arial, sans-serif;
-  font-size: small;
+  background-color: #FFF; 
+  font: 15px Georgia, serif;
+  font-size: medium;
   text-align: center;
 }
 
@@ -23,11 +23,11 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 100%; }
 
 h1 { margin-bottom: 1em; }
+h3 { margin-top: 1em; margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a         { color: #00a; }
-a:hover   { color: #000; }
-a:visited { color: #a0a; }
+a         { color: #993D00; }
+
 
 /*****************************************************************************/
 /*
@@ -45,7 +45,7 @@ ul.posts li {
 
 ul.posts span {
   color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
+  /* font-family: Monaco, "Courier New", monospace; */
   font-size: 80%;
 }
 
@@ -57,28 +57,24 @@ ul.posts span {
 
 .site {
   font-size: 115%;
-  text-align: justify;
+  text-align: left;
   width: 42em;
   margin: 3em auto 2em;
   line-height: 1.5em;
 }
 
 .site .header a {
-  font-weight: bold;
   text-decoration: none;
 }
 
 .site .header h1.title {
   display: inline-block;
+  font-size: 150%;
   margin-bottom: 2em;
 }
 
 .site .header h1.title a {
-  color: #a00;
-}
-
-.site .header h1.title a:hover {
-  color: #000;
+  color: #000066;
 }
 
 .site .header a.extra {
@@ -90,14 +86,18 @@ ul.posts span {
   color: #000;
 }
 
+.site .post_title {
+  font-size: 130%;
+}
+
 .site .meta {
   color: #aaa;
 }
 
 .site .footer {
-  font-size: 80%;
+
   color: #666;
-  border-top: 4px solid #eee;
+  border-top: 2px solid #eee;
   margin-top: 2em;
   overflow: hidden;
 }
@@ -108,7 +108,7 @@ ul.posts span {
 }
 
 .site .footer .contact a {
-  color: #8085C1;
+  color: #000066;
 }
 
 .site .footer .rss {
