@@ -3,6 +3,6 @@ briankelly.github.io
 
 my personal website
 
-http://briankel.ly
+http://www.briankelly.me
 
-launched December 2013
+(re)launched January 2015
