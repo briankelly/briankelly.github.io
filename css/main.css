@@ -8,13 +8,11 @@
 * {
   margin: 0;
   padding: 0;
-}
-
-html, body { height: 100%; }
+} 
 
 body {
-  background-color: #FFF; 
-  font: 18px Georgia, serif;
+  background-color: #ffebd6; 
+  font: 18px Helvetica, Arial, sans-serif;
   font-size: medium;
   text-align: center;
 }
@@ -26,7 +24,7 @@ h1 { margin-bottom: 1em; }
 h3 { margin-top: 1em; margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a         { color: #993D00; }
+a         { color: #c56a00; }
 
 
 /*****************************************************************************/
@@ -69,11 +67,12 @@ ul.posts span {
 .site .header h1.title {
   display: inline-block;
   font-size: 150%;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
+  color: #452500;
 }
 
 .site .header h1.title a {
-  color: #000066;
+  color: #c56a00;
 }
 
 .site .header a.extra {
@@ -95,10 +94,7 @@ ul.posts span {
 
 .site .footer {
 
-  color: #666;
-  border-top: 2px solid #eee;
-  margin-top: 2em;
-  overflow: hidden;
+  margin-top: 1em;
 }
 
 .site .footer .contact {
@@ -107,17 +103,7 @@ ul.posts span {
 }
 
 .site .footer .contact a {
-  color: #000066;
-}
-
-.site .footer .rss {
-  margin-top: 1.1em;
-  margin-right: -.2em;
-  float: right;
-}
-
-.site .footer .rss img {
-  border: 0;
+  color: #c56a00;
 }
 
 /*****************************************************************************/
