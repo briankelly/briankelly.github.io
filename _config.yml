@@ -9,6 +9,6 @@ permalink: /:year/:month/:title
 # https://help.github.com/articles/using-jekyll-with-pages
 safe: true
 lsi: false
-pygments: true
+highlighter: pygments
 
 # source: is set to my top-level dir by github pages
