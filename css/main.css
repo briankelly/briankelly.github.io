@@ -32,16 +32,16 @@ a         { color: #c56a00; }
 /* Home
 /*
 /*****************************************************************************/
-ul.posts {
+ul.bkinfo {
   list-style-type: none;
   margin-bottom: 2em;
 }
 
-ul.posts li {
-  line-height: 1.75em;
+ul.bkinfo li {
+  line-height: 2.2em;
 }
 
-ul.posts span {
+ul.bkinfo span {
   color: #aaa;
   /* font-family: Monaco, "Courier New", monospace; */
   font-size: 80%;
@@ -93,7 +93,6 @@ ul.posts span {
 }
 
 .site .footer {
-
   margin-top: 1em;
 }
 
@@ -106,30 +105,24 @@ ul.posts span {
   color: #c56a00;
 }
 
-/*****************************************************************************/
-/*
-/* Posts
-/*
-/*****************************************************************************/
-
-/* standard */
-.post pre {
+.bkinfo pre {
   border: 1px solid #ddd;
   background-color: #eef;
   padding: 0 .4em;
 }
 
-.post ul, .post ol {
+.bkinfo ul, .post ol {
   margin-left: 1.35em;
+  line-height: 3.0 em;
 }
 
-.post code {
+.bkinfo code {
   border: 1px solid #ddd;
   background-color: #eef;
   padding: 0 .2em;
 }
 
-.post pre code {
+.bkinfo pre code {
   border: none;
 }
 
