@@ -1,5 +1,5 @@
 name: Brian Kelly
-markdown: redcarpet
+markdown: kramdown
 
 exclude: [Gemfile*, README.md]
 # permalink: pretty # effectively, /:year/:month/:day/:title
